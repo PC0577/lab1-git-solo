@@ -3,3 +3,4 @@ To jest opis projektu.
 Druga linia
 kolejna linia
 ## Autor\nPaweł
+Nowa stopka
